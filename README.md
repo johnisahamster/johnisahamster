@@ -9,6 +9,9 @@ I also plan on working on making Minecraft mods in the near future.
 
 I've made this github account to store my past projects and future personal/professional projects, 
 so any of my current school project repositories are worked on using my [school account](https://github.com/johnh-otu).
+Unfortunately, most are privated at the moment, but I will try to change that soon.
+
+School has been really busy lately, so although I will be uploading my projects as much as possible, I may not have the time to document everything properly right away.
 
 ## Skills
 I have experience working with Java, C++, Python, C#, HTML, CSS, Nodejs, PHP, MySQL and more, but C# and Java are probably my favourite languages to work with.
