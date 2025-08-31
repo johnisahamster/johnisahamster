@@ -3,22 +3,16 @@
 
 
 ## About Me
-I'm a second-year Software Engineering student at [Ontario Tech University](https://ontariotechu.ca).
+I'm an IT Solutions Analyst currently working with the [Toronto Transit Commission](https://www.ttc.ca/).
+I have a Bachelor's in Software Engineering from [Ontario Tech University](https://ontariotechu.ca).
 My coding interests are physics simulations, image editing, and UI design, although many of my projects involve web development and .NET apps.
 I also plan on working on making Minecraft mods in the near future.
 
-I've made this github account to store my past projects and future personal/professional projects, 
-so any of my current school project repositories are worked on using my [school account](https://github.com/johnh-otu).
-Unfortunately, most are privated at the moment, but I will try to change that soon.
-
-School has been really busy lately, so although I will be uploading my projects as much as possible, I may not have the time to document everything properly right away. Anyway, enjoy looking around!
+I've made this github account to store my personal projects, 
+so any of my school project repositories were worked on using my [school account](https://github.com/johnh-otu). I don't currently use GitHub for my professional work.
 
 ## Skills
 I have experience working with Java, C++, Python, C#, HTML, CSS, Nodejs, PHP, MySQL and more, but C# and Java are probably my favourite languages to work with.
-My most valuable programming skills are being able to adapt to new environments and being able to read documentation. :)
+Because of work, I have recently been forced to learn Angular, which I'm currently having fun messing around with.
 
-## Contact
-You can contact me via email at the following addresses:
-| Personal Email          | School Email                    |
-|-------------------------|---------------------------------|
-| john.howe316@icloud.com | johnathan.howe@ontariotechu.net |
+Of course, my most valuable programming skills are being able to adapt to new environments and being able to read documentation. :)
